@@ -197,7 +197,7 @@ console.log(mergedString);
 let s = 'learn Javascript';
 let repeatedString = s.repeat(2);
 
-console.log(repeatedString);
+console.log(repeatedString);;
 
 
 
